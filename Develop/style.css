@@ -1,0 +1,77 @@
+ .bd-placeholder-img {
+     font-size: 1.125rem;
+     text-anchor: middle;
+     -webkit-user-select: none;
+     -moz-user-select: none;
+     -ms-user-select: none;
+     user-select: none;
+ }
+
+ .navbar {
+     height: 90px;
+     font-size: x-large;
+ }
+
+ .navbar-brand {
+     font-size: 46px;
+ }
+
+ .nav-item {
+     padding-right: 20px;
+ }
+
+ .jumbotron {
+     margin-top: 32px;
+     height: 110vh;
+     background-image: url(../Assets/Images/hero.jpg);
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-position: center-top;
+ }
+
+ .hero-text {
+     text-align: center;
+     position: absolute;
+     top: 55%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+     color: white;
+     font-size: 100px;
+ }
+
+ #about {
+     text-align: center;
+     width: 800px;
+     padding-top: 50px;
+     padding-bottom: 300px;
+ }
+
+ #contact {
+     width: 800px;
+     padding-top: 50px;
+     padding-bottom: 200px;
+ }
+
+ #portfolio {
+     background-color: rgb(223, 221, 221);
+ }
+
+ .btn {
+     background-color: darkgray;
+ }
+
+ footer {
+     width: 100%;
+     text-align: center;
+     bottom: 0;
+     left: 0;
+     background-color: dimgray;
+     padding: 20px;
+     clear: both;
+ }
+
+ @media (min-width: 768px) {
+     .bd-placeholder-img-lg {
+         font-size: 3.5rem;
+     }
+ }
