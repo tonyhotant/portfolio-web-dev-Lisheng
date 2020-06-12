@@ -4,27 +4,24 @@ Now that you've built a full-stack web application and have another project to s
 
 If you are opting out of career services, this is *still a required assignment*. Part of being a web developer means being a part of a community. Having a place to share your projects is *necessary* if you're applying for jobs, but is still *critical* on your journey as a developer.
 
-
 ## Requirements
 
-* Updated portfolio featuring projects 1 and 2 and at least four exemplary homework assignments. 
+* Updated portfolio featuring projects 1 and 2 and at least four exemplary homework assignments.
 
-* Update GitHub profile with pinned repositories featuring projects 1 and 2 and four exemplary assignments. 
+* Update GitHub profile with pinned repositories featuring projects 1 and 2 and four exemplary assignments.
 
 * Updated resume
 
 * Updated LinkedIn profile
 
-
 ## Grading
 
 | Requirement      | Weight |
 |---               |---     |
-| Portoflio        | 40%    |
+| Portfolio        | 40%    |
 | GitHub Profile   | 40%    |
 | Resume           | 10%    |
 | LinkedIn Profile | 10%    |
-
 
 ## Instructions
 
@@ -53,7 +50,6 @@ Your updated site should have the following content:
 
   * Screenshot of the deployed application
 
-
 #### Design
 
 Unfortunately, this is where it gets a little bit subjective. Your site should look
@@ -66,10 +62,9 @@ the default bootstrap theme or an unstyled HTML site.
 
 * Make sure the font size is large enough to read, and that the colors don't cause eye strain.
 
+### Updated GitHub Profile
 
-### Updated GitHub Profile 
-
-* If you haven't yet, now is the time to update the following in your GitHub profile: 
+* If you haven't yet, now is the time to update the following in your GitHub profile:
 
     * Profile picture
 
@@ -81,7 +76,7 @@ the default bootstrap theme or an unstyled HTML site.
 
     * Link to your portfolio
 
-* Employers (and potential collaborators) _will_ look at your GitHub profile, so put your best face forward. 
+* Employers (and potential collaborators) _will_ look at your GitHub profile, so put your best face forward.
 
 * Pin some repos that you want to highlight
 
@@ -93,18 +88,15 @@ the default bootstrap theme or an unstyled HTML site.
 
   * Make sure each of these projects is deployed and add a link to the deployed project in their README files
 
-* Follow your classmates. They are the beginning of your professional network and being a developer is as much about being a part of the community as it is writing code. 
+* Follow your classmates. They are the beginning of your professional network and being a developer is as much about being a part of the community as it is writing code.
 
-
-### Updated Resume 
+### Updated Resume
 
 Submit a clear, concise and compelling resume, tailored to the type of job you’re looking for.
 
-
-### Updated LinkedIn Profile 
+### Updated LinkedIn Profile
 
 Update your LinkedIn Profile with a strong bio statement, a professional photo, and links to your Github and portfolio.
-
 
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
