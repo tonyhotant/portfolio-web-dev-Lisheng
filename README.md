@@ -62,3 +62,5 @@ the default bootstrap theme or an unstyled HTML site.
 2. re-design contact me -> use simple icon? 
 
 3. re-design portfolio section
+
+4. compress image
