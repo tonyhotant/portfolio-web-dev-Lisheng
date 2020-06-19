@@ -1,15 +1,7 @@
 main {
     background: linear-gradient(to right, rgb(116, 115, 115), rgb(43, 42, 42));
     color: white;
-}
-
-.bd-placeholder-img {
-    font-size: 1.125rem;
-    text-anchor: middle;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
+    overflow: hidden;
 }
 
 .navbar {
@@ -54,7 +46,7 @@ main {
 
 #about {
     text-align: center;
-    width: 800px;
+    max-width: 800px;
     padding-top: 50px;
     color: white;
     font-size: 20px;
@@ -63,7 +55,7 @@ main {
 
 #profile {
     padding-bottom: 200px;
-    width: 45%;
+    max-width: 45%;
 }
 
 hr {
@@ -81,7 +73,7 @@ hr {
 }
 
 #contact {
-    width: 800px;
+    max-width: 800px;
     padding-top: 50px;
     padding-bottom: 200px;
 }
@@ -105,7 +97,7 @@ hr {
 }
 
 footer {
-    width: 100%;
+    max-width: 100%;
     text-align: center;
     bottom: 0;
     left: 0;
