@@ -59,14 +59,12 @@ the default bootstrap theme or an unstyled HTML site.
 
 1. dynamic navbar icons
 
-2. re-design contact me -> use simple icon? 
+2. fix navbar responsive
 
-3. re-design portfolio section
+3. re-design contact me -> use simple icon?
 
-4. compress all images
+4. re-design portfolio section
 
 5. PWA
 
-6. change projects images
-
-7. contact form
+6. contact form
