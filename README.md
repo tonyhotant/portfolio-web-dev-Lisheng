@@ -63,6 +63,10 @@ the default bootstrap theme or an unstyled HTML site.
 
 3. re-design portfolio section
 
-4. compress image
+4. compress all images
 
-5. PWD
+5. PWA
+
+6. change projects images
+
+7. contact form

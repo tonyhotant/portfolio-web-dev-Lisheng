@@ -54,7 +54,7 @@ main {
 }
 
 #profile {
-    padding-bottom: 200px;
+    margin-bottom: 200px;
     max-width: 45%;
 }
 
@@ -72,9 +72,12 @@ hr {
     font-size: large;
 }
 
+#portfolio {
+    margin-bottom: 200px;
+}
+
 #contact {
-    max-width: 800px;
-    padding-top: 50px;
+    max-width: 50%;
     padding-bottom: 200px;
 }
 
@@ -82,18 +85,14 @@ hr {
     color: black;
     background-color: rgb(235, 233, 233);
     padding: 20px;
-    height: 80%;
+    height: 500px;
     overflow: hidden;
-}
-
-.card-img-top {
-    object-fit: cover;
-    height: 70%;
 }
 
 .btn {
     background-color: darkgray;
     color: black;
+    max-width: 80%;
 }
 
 footer {
